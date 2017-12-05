@@ -16,6 +16,6 @@ Let's read some awesome transfer learning / domain adaptation papers!
 
 - ICCV-17 [Unified Deep Supervised Domain Adaptation and Generalization](http://vision.csee.wvu.edu/~motiian/papers/CCSA.pdf)
 
-- CoRR abs/1603.04779 (2016) [Revisiting batch normalization for practical domain adaptation](https://arxiv.org/pdf/1603.04779.pdf)
-
 - 2017 Google：[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+
+- CoRR abs/1603.04779 (2016) [Revisiting batch normalization for practical domain adaptation](https://arxiv.org/pdf/1603.04779.pdf)
