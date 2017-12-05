@@ -69,5 +69,10 @@
 ---
 ## Surveys
 
+- [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+
+- [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6)
+
+- [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf)
 ---
 ## Dataset
