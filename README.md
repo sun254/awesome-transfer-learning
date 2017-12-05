@@ -72,7 +72,7 @@
 
 - CVPR-14 [Transfer Joint Matching for Unsupervised Domain Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-joint-matching-cvpr14.pdf)
 
-- CoRR abs/1412.3474 (2014) [Deep Domain Confusion(DCC): Maximizing for Domain Invariance](http://www.arxiv.org/pdf/1412.3474.pdf)
+- CoRR abs/1412.3474 (2014) [Deep Domain Confusion(DDC): Maximizing for Domain Invariance](http://www.arxiv.org/pdf/1412.3474.pdf)
 
 - ICCV-13 [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf)
 
