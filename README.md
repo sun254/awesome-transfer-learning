@@ -38,7 +38,7 @@
 
 - AAAI-17 [Distant Domain Transfer Learning](http://www3.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
 
-- 2017 Google：[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+- 2017 Google: [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 
 - CoRR abs/1603.04779 (2016) [AdaBN: Revisiting batch normalization for practical domain adaptation](https://arxiv.org/pdf/1603.04779.pdf)
 
