@@ -36,6 +36,8 @@
 
 - ICML-17 [DiscoGAN: Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/abs/1703.05192)
 
+- AAAI-17 [Distant Domain Transfer Learning](http://www3.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
+
 - 2017 Google：[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 
 - CoRR abs/1603.04779 (2016) [AdaBN: Revisiting batch normalization for practical domain adaptation](https://arxiv.org/pdf/1603.04779.pdf)
@@ -47,6 +49,8 @@
 - NIPS-16 [DSN: Domain Separation Networks](https://arxiv.org/abs/1608.06019.pdf)
 
 - JMLR-16 [DANN: Domain-adversarial training of neural networks](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)
+
+- JMLR-16 [Distribution-Matching Embedding for Visual Domain Adaptation](http://www.jmlr.org/papers/volume17/15-207/15-207.pdf)
 
 - CoRR abs/1610.04420 (2016) [Theoretical Analysis of Domain Adaptation with Optimal Transport](https://arxiv.org/pdf/1610.04420.pdf)
 
@@ -60,13 +64,19 @@
 
 - ICCV-15 [Simultaneous Deep Transfer Across Domains and Tasks](https://people.eecs.berkeley.edu/~jhoffman/papers/Tzeng_ICCV2015.pdf)
 
+- KDD-15 [Transitive Transfer Learning](http://dl.acm.org/citation.cfm?id=2783295)
+
 - ICML-14 [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531.pdf)
+
+- NIPS-14 [How transferable are features in deep neural networks?](http://yosinski.com/media/papers/Yosinski__2014__NIPS__How_Transferable_with_Supp.pdf)
 
 - CVPR-14 [Transfer Joint Matching for Unsupervised Domain Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-joint-matching-cvpr14.pdf)
 
 - CoRR abs/1412.3474 (2014) [Deep Domain Confusion(DCC): Maximizing for Domain Invariance](http://www.arxiv.org/pdf/1412.3474.pdf)
 
 - ICCV-13 [Transfer Feature Learning with Joint Distribution Adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-distribution-adaptation-iccv13.pdf)
+
+- NIPS-12 [MMD: Optimal kernel choice for large-scale two-sample tests](http://www.stat.cmu.edu/~siva/Papers/MMD12.pdf)
 
 ---
 ## Surveys
