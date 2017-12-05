@@ -1,6 +1,6 @@
 # awesome-transfer-learning
 
-# Paper
+## Paper
 
 - ICLR-18 [generalizing across domains via cross-gradient training](https://openreview.net/pdf?id=r1Dx7fbCW)
 
